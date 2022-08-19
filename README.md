@@ -1,3 +1,3 @@
 # Voting_System_using_python
 
-This Voting System consist of two panels one is 1) Student panel and 2) admin panel, student panel can vote by sign up and login, admin panel can signup and login and even conducts election by creating new election. programming language used python.
+With our voting system, every voter is guaranteed an accessible and secure voting method, their votes remain private and confidential.
